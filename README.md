@@ -6,11 +6,11 @@ Ce dépôt contient la première partie des blocs-notes Jupyter du cours "Python
 
 ### Partie 1
 
-- Séance n°1 : Rappels et approfondissements des bases
-- Séance n°2 : Fonctionnalités avancées de Python
-- Séance n°3 : Introduction à Matplotlib
-- Séance n°4 : Introduction à la programmation orientée-objet
-- Séance n°5 : Polymorphisme et programmation orientée-objet
-- Séance n°6 : Concepts avancés de programmation orientée-objet
+- Séance n°1 : [Rappels et approfondissements des bases](./seance_01.ipynb)
+- Séance n°2 : [Fonctionnalités avancées de Python](./seance_02.ipynb)
+- Séance n°3 : [Introduction à Matplotlib](./seance_03.ipynb)
+- Séance n°4 : [Introduction à la programmation orientée-objet](./seance_04.ipynb)
+- Séance n°5 : [Polymorphisme et programmation orientée-objet](./seance_05.ipynb)
+- Séance n°6 : [Concepts avancés de programmation orientée-objet](./seance_06.ipynb)
 
 (C) Alain Lebret, 2024
