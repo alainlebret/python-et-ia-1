@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   contentStyleType="text/css"
+   height="258px"
+   preserveAspectRatio="none"
+   style="width:693px;height:258px;background:#FFFFFF;"
+   version="1.1"
+   viewBox="0 0 693 258"
+   width="693px"
+   zoomAndPan="magnify"
+   id="svg10"
+   sodipodi:docname="diag_classes_elec1.svg"
+   inkscape:export-filename="diag_classes_elec1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.91472868"
+     inkscape:cx="346.55085"
+     inkscape:cy="129"
+     inkscape:window-width="1472"
+     inkscape:window-height="861"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <defs
+     id="defs1">
+    <filter
+       height="1.2270716"
+       id="fdrw22eebu4k"
+       width="1.073125"
+       x="-0.026545366"
+       y="-0.082430104">
+      <feGaussianBlur
+         result="blurOut"
+         stdDeviation="2.0"
+         id="feGaussianBlur1" />
+      <feColorMatrix
+         in="blurOut"
+         result="blurOut2"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"
+         id="feColorMatrix1" />
+      <feOffset
+         dx="4.0"
+         dy="4.0"
+         in="blurOut2"
+         result="blurOut3"
+         id="feOffset1" />
+      <feBlend
+         in="SourceGraphic"
+         in2="blurOut3"
+         mode="normal"
+         id="feBlend1" />
+    </filter>
+  </defs>
+  <g
+     id="g10">
+    <!--class ComposantElectronique-->
+    <g
+       id="elem_ComposantElectronique">
+      <rect
+         codeLine="3"
+         fill="#FEFECE"
+         filter="url(#fdrw22eebu4k)"
+         height="113.1875"
+         id="ComposantElectronique"
+         style="stroke:#A80036;stroke-width:1.0;"
+         width="199.6582"
+         x="234.5"
+         y="7" />
+      <ellipse
+         cx="249.5"
+         cy="23"
+         fill="#ADD1B2"
+         rx="11"
+         ry="11"
+         style="stroke:#A80036;stroke-width:1.0;"
+         id="ellipse1" />
+      <path
+         d="M252.4688,28.6406 Q251.8906,28.9375 251.25,29.0781 Q250.6094,29.2344 249.9063,29.2344 Q247.4063,29.2344 246.0781,27.5938 Q244.7656,25.9375 244.7656,22.8125 Q244.7656,19.6875 246.0781,18.0313 Q247.4063,16.375 249.9063,16.375 Q250.6094,16.375 251.25,16.5313 Q251.9063,16.6875 252.4688,16.9844 L252.4688,19.7031 Q251.8438,19.125 251.25,18.8594 Q250.6563,18.5781 250.0313,18.5781 Q248.6875,18.5781 248,19.6563 Q247.3125,20.7188 247.3125,22.8125 Q247.3125,24.9063 248,25.9844 Q248.6875,27.0469 250.0313,27.0469 Q250.6563,27.0469 251.25,26.7813 Q251.8438,26.5 252.4688,25.9219 L252.4688,28.6406 Z "
+         fill="#000000"
+         id="path1" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="167.6582"
+         x="263.5"
+         y="27.8467"
+         id="text1">ComposantElectronique</text>
+      <line
+         style="stroke:#A80036;stroke-width:1.0;"
+         x1="235.5"
+         x2="433.1582"
+         y1="39"
+         y2="39"
+         id="line1" />
+      <rect
+         fill="none"
+         height="6"
+         style="stroke:#C82930;stroke-width:1.0;"
+         width="6"
+         x="242.5"
+         y="49.6484"
+         id="rect1" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="86.4746"
+         x="254.5"
+         y="55.9951"
+         id="text2">nom : String</text>
+      <rect
+         fill="none"
+         height="6"
+         style="stroke:#C82930;stroke-width:1.0;"
+         width="6"
+         x="242.5"
+         y="65.9453"
+         id="rect2" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="92.1895"
+         x="254.5"
+         y="72.292"
+         id="text3">valeur : Float</text>
+      <rect
+         fill="none"
+         height="6"
+         style="stroke:#C82930;stroke-width:1.0;"
+         width="6"
+         x="242.5"
+         y="82.2422"
+         id="rect3" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="91.1367"
+         x="254.5"
+         y="88.5889"
+         id="text4">unite : String</text>
+      <line
+         style="stroke:#A80036;stroke-width:1.0;"
+         x1="235.5"
+         x2="433.1582"
+         y1="95.8906"
+         y2="95.8906"
+         id="line4" />
+      <ellipse
+         cx="245.5"
+         cy="109.5391"
+         fill="#84BE84"
+         rx="3"
+         ry="3"
+         style="stroke:#038048;stroke-width:1.0;"
+         id="ellipse4" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="140.6904"
+         x="254.5"
+         y="112.8857"
+         id="text5">afficher_info() : void</text>
+    </g>
+    <!--class Resistance-->
+    <g
+       id="elem_Resistance">
+      <rect
+         codeLine="10"
+         fill="#FEFECE"
+         filter="url(#fdrw22eebu4k)"
+         height="64.2969"
+         id="Resistance"
+         style="stroke:#A80036;stroke-width:1.0;"
+         width="300.7363"
+         x="7"
+         y="180" />
+      <ellipse
+         cx="115.083"
+         cy="196"
+         fill="#ADD1B2"
+         rx="11"
+         ry="11"
+         style="stroke:#A80036;stroke-width:1.0;"
+         id="ellipse5" />
+      <path
+         d="M118.0518,201.6406 Q117.4736,201.9375 116.833,202.0781 Q116.1924,202.2344 115.4893,202.2344 Q112.9893,202.2344 111.6611,200.5938 Q110.3486,198.9375 110.3486,195.8125 Q110.3486,192.6875 111.6611,191.0313 Q112.9893,189.375 115.4893,189.375 Q116.1924,189.375 116.833,189.5313 Q117.4893,189.6875 118.0518,189.9844 L118.0518,192.7031 Q117.4268,192.125 116.833,191.8594 Q116.2393,191.5781 115.6143,191.5781 Q114.2705,191.5781 113.583,192.6563 Q112.8955,193.7188 112.8955,195.8125 Q112.8955,197.9063 113.583,198.9844 Q114.2705,200.0469 115.6143,200.0469 Q116.2393,200.0469 116.833,199.7813 Q117.4268,199.5 118.0518,198.9219 L118.0518,201.6406 Z "
+         fill="#000000"
+         id="path5" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="76.0703"
+         x="135.583"
+         y="200.8467"
+         id="text6">Resistance</text>
+      <line
+         style="stroke:#A80036;stroke-width:1.0;"
+         x1="8"
+         x2="306.7363"
+         y1="212"
+         y2="212"
+         id="line6" />
+      <line
+         style="stroke:#A80036;stroke-width:1.0;"
+         x1="8"
+         x2="306.7363"
+         y1="220"
+         y2="220"
+         id="line7" />
+      <ellipse
+         cx="18"
+         cy="233.6484"
+         fill="#84BE84"
+         rx="3"
+         ry="3"
+         style="stroke:#038048;stroke-width:1.0;"
+         id="ellipse7" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="274.7363"
+         x="27"
+         y="236.9951"
+         id="text7">calculer_courant(tension : Float) : Float</text>
+    </g>
+    <!--class Condensateur-->
+    <g
+       id="elem_Condensateur">
+      <rect
+         codeLine="14"
+         fill="#FEFECE"
+         filter="url(#fdrw22eebu4k)"
+         height="64.2969"
+         id="Condensateur"
+         style="stroke:#A80036;stroke-width:1.0;"
+         width="336.0576"
+         x="343.5"
+         y="180" />
+      <ellipse
+         cx="458.1831"
+         cy="196"
+         fill="#ADD1B2"
+         rx="11"
+         ry="11"
+         style="stroke:#A80036;stroke-width:1.0;"
+         id="ellipse8" />
+      <path
+         d="M461.1519,201.6406 Q460.5737,201.9375 459.9331,202.0781 Q459.2925,202.2344 458.5894,202.2344 Q456.0894,202.2344 454.7612,200.5938 Q453.4487,198.9375 453.4487,195.8125 Q453.4487,192.6875 454.7612,191.0313 Q456.0894,189.375 458.5894,189.375 Q459.2925,189.375 459.9331,189.5313 Q460.5894,189.6875 461.1519,189.9844 L461.1519,192.7031 Q460.5269,192.125 459.9331,191.8594 Q459.3394,191.5781 458.7144,191.5781 Q457.3706,191.5781 456.6831,192.6563 Q455.9956,193.7188 455.9956,195.8125 Q455.9956,197.9063 456.6831,198.9844 Q457.3706,200.0469 458.7144,200.0469 Q459.3394,200.0469 459.9331,199.7813 Q460.5269,199.5 461.1519,198.9219 L461.1519,201.6406 Z "
+         fill="#000000"
+         id="path8" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="98.1914"
+         x="478.6831"
+         y="200.8467"
+         id="text8">Condensateur</text>
+      <line
+         style="stroke:#A80036;stroke-width:1.0;"
+         x1="344.5"
+         x2="678.5576"
+         y1="212"
+         y2="212"
+         id="line8" />
+      <line
+         style="stroke:#A80036;stroke-width:1.0;"
+         x1="344.5"
+         x2="678.5576"
+         y1="220"
+         y2="220"
+         id="line9" />
+      <ellipse
+         cx="354.5"
+         cy="233.6484"
+         fill="#84BE84"
+         rx="3"
+         ry="3"
+         style="stroke:#038048;stroke-width:1.0;"
+         id="ellipse9" />
+      <text
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="14"
+         lengthAdjust="spacing"
+         textLength="310.0576"
+         x="363.5"
+         y="236.9951"
+         id="text9">calculer_reactance(frequence : Float) : Float</text>
+    </g>
+    <!--reverse link ComposantElectronique to Resistance-->
+    <g
+       id="link_ComposantElectronique_Resistance">
+      <path
+         codeLine="18"
+         d="M253.4644,131.5681 C229.0144,151.8081 216.12,162.48 195.14,179.85 "
+         fill="none"
+         id="ComposantElectronique-backto-Resistance"
+         style="stroke:#A80036;stroke-width:1.0;" />
+      <polygon
+         fill="none"
+         points="267.33,120.09,249.6384,126.9462,257.2905,136.1899,267.33,120.09"
+         style="stroke:#A80036;stroke-width:1.0;"
+         id="polygon9" />
+    </g>
+    <!--reverse link ComposantElectronique to Condensateur-->
+    <g
+       id="link_ComposantElectronique_Condensateur">
+      <path
+         codeLine="19"
+         d="M415.5356,131.5681 C439.9856,151.8081 452.88,162.48 473.86,179.85 "
+         fill="none"
+         id="ComposantElectronique-backto-Condensateur"
+         style="stroke:#A80036;stroke-width:1.0;" />
+      <polygon
+         fill="none"
+         points="401.67,120.09,411.7095,136.1899,419.3616,126.9462,401.67,120.09"
+         style="stroke:#A80036;stroke-width:1.0;"
+         id="polygon10" />
+    </g>
+    <!--SRC=[VOzB3i8m30NtEKMMhQfU0B53S00u0B9I1onI6_Bf1dft4b2XI1LBsqzlnk52hBq4LCeu245lfBzA08vRXoPwORebr7UbTSlIwvK-H4zyAlC03fFFgvqJY6MJc2BECmrOI-QC_aXifQhpRH3gr3ZXzXWeH63pPZG6d4akvuqadosgY1n8UABK7zpuDUOkXo0McTyIZs1UvPNrcFyecAMYvQVNZxQT2VvBpHsU]-->
+  </g>
+</svg>
