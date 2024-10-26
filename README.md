@@ -13,6 +13,8 @@ Ce dépôt contient la première partie des blocs-notes Jupyter du cours "Python
 - Séance n°5 : [Polymorphisme et programmation orientée-objet](./seance_05.ipynb)
 - Séance n°6 : [Concepts avancés de programmation orientée-objet](./seance_06.ipynb)
 
+Voici le lien vers la [partie 2](https://github.com/alainlebret/python-et-ia-2)
+
 ## Licence
 
 ![CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
