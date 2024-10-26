@@ -15,8 +15,8 @@ Ce dépôt contient la première partie des blocs-notes Jupyter du cours "Python
 
 ## Licence
 
-[![CC BY-ND 4.0][https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg]][cc-by-nc]
+![CC BY-NC 4.0][https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg][
 
-Ce cours est mis à disposition selon les termes de la licence [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+Ce cours est mis à disposition selon les termes de la licence [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 © Alain Lebret, 2024.
