@@ -17,7 +17,7 @@ Ce dépôt contient la première partie des blocs-notes Jupyter du cours **"Pyth
 - **Séance n°5 :** [Polymorphisme et programmation orientée-objet](./seance_05.ipynb)
 - **Séance n°6 :** [Concepts avancés de programmation orientée-objet](./seance_06.ipynb)
 
-Pour accéder à la partie 2, consultez le dépôt suivant : [Partie 2](https://github.com/alainlebret/python-et-ia-2)
+Pour accéder à la partie 2, consultez le dépôt suivant : [partie 2](https://github.com/alainlebret/python-et-ia-2)
 
 ### Licence
 
@@ -42,7 +42,7 @@ This repository contains the first part of the Jupyter notebooks for the course 
 - **Session 5:** [Polymorphism and object-oriented programming](./seance_05.ipynb)
 - **Session 6:** [Advanced concepts in object-oriented programming](./seance_06.ipynb)
 
-For part 2 of the course, please visit the following repository: [Part 2 Repository](https://github.com/alainlebret/python-et-ia-2)
+For part 2 of the course, please visit the following repository: [part 2 repository](https://github.com/alainlebret/python-et-ia-2)
 
 ### License
 
