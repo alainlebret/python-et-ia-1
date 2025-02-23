@@ -42,7 +42,7 @@ This repository contains the first part of the Jupyter notebooks for the course 
 - **Session 5:** [Polymorphism and object-oriented programming](./seance_05.ipynb)
 - **Session 6:** [Advanced concepts in object-oriented programming](./seance_06.ipynb)
 
-For part 2 of the course, please visit the following repository: [part 2 repository](https://github.com/alainlebret/python-et-ia-2)
+For part 2 of the course, please visit the following repository: [python-et-ia-2](https://github.com/alainlebret/python-et-ia-2)
 
 ### License
 
